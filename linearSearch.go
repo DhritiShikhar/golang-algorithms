@@ -1,4 +1,5 @@
-// Linear Search Algorithm
+// Linear Search Algorithm is a simple algorithm
+// Compare TheNumToSearch with each item in the list sequentially
 
 package main
 
